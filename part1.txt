@@ -1,1 +1,5 @@
+Trello Manual Testing Planning link:
 https://trello.com/b/pZw7DpQm
+
+Heroku Deployment link:
+https://assessment-6-lh.herokuapp.com/
